@@ -1,0 +1,11 @@
+/Users/evanweeks/Projects/RPGChallenge/RPGChallenge/bin/Debug/RPGChallenge.exe
+/Users/evanweeks/Projects/RPGChallenge/RPGChallenge/bin/Debug/RPGChallenge.pdb
+/Users/evanweeks/Projects/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.csproj.CoreCompileInputs.cache
+/Users/evanweeks/Projects/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.exe
+/Users/evanweeks/Projects/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.pdb
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/bin/Debug/RPGChallenge.exe
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/bin/Debug/RPGChallenge.pdb
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.csproj.CoreCompileInputs.cache
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.exe
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.pdb
+/Users/evanweeks/Desktop/RPGChallenge/RPGChallenge/obj/x86/Debug/RPGChallenge.csprojResolveAssemblyReference.cache
